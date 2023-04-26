@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "297731558357",
+    "project_id": "all-games-27058",
+    "storage_bucket": "all-games-27058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297731558357:android:b955ec61843f5ae6dd8b5c",
+        "android_client_info": {
+          "package_name": "com.hinfo.allgameadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297731558357-gnvovh02qubglaucq6g9d605el7qtq55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVddQEyg_Sf5zJN1GQ0MEkGxWcfoaaVG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297731558357-gnvovh02qubglaucq6g9d605el7qtq55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297731558357:android:dfc81d5f03b94176dd8b5c",
+        "android_client_info": {
+          "package_name": "com.hinfo.allgames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297731558357-gnvovh02qubglaucq6g9d605el7qtq55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVddQEyg_Sf5zJN1GQ0MEkGxWcfoaaVG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297731558357-gnvovh02qubglaucq6g9d605el7qtq55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
