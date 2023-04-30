@@ -4,13 +4,34 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
     android:gravity="center"
     tools:context=".MainActivity">
+
+    <Spinner
+        android:id="@+id/spinCate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"/>
 
     <Button
         android:id="@+id/btnUpload"
         android:layout_width="wrap_content"
         android:text="Upload Image"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edtCate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        style="@style/Widget.AppCompat.EditText"/>
+
+    <Button
+        android:id="@+id/btnAddCategory"
+        android:layout_width="wrap_content"
+        android:text="Add Category"
         android:layout_height="wrap_content"/>
 
 </LinearLayout>
